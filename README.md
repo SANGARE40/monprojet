@@ -1,10 +1,12 @@
 # monprojet
 c'est mon premier projet 
-##exercice 1
 
 
-´´´python
-#Exercice 01 : Nombre mysterieux
+##exercice 01
+
+
+'''python
+#Exercice 01 : Nombre mysterieux 
 from random import *
 aa=randint(1,100)
 ab=0
@@ -16,4 +18,6 @@ while aa != ab :
     print("Faux : votre nombre est grand !")
   else :
     print("Bravo : vous avez trouvé !")
-´´´
+
+
+'''  
