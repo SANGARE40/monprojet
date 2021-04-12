@@ -5,8 +5,7 @@ c'est mon premier projet
 ##exercice 01
 
 
-'''python
-#Exercice 01 : Nombre mysterieux 
+´´´python
 from random import *
 aa=randint(1,100)
 ab=0
@@ -19,5 +18,4 @@ while aa != ab :
   else :
     print("Bravo : vous avez trouvé !")
 
-
-'''  
+´´´  
