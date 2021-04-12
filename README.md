@@ -3,7 +3,7 @@ c'est mon premier projet
 ##exercice 1
 
 
-'''python
+´´´python
 #Exercice 01 : Nombre mysterieux
 from random import *
 aa=randint(1,100)
@@ -16,5 +16,4 @@ while aa != ab :
     print("Faux : votre nombre est grand !")
   else :
     print("Bravo : vous avez trouvé !")
-    
-   '''
+´´´
